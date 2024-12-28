@@ -4,3 +4,7 @@ Designing a macroPad device that would allow control multiple functions in the p
 MCU used - ESP 32
 
 Functionalities - Volume Control  and Brightness Control
+
+Volume controlled over Bluetooth
+Opening websites over serial communication
+
