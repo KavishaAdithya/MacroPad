@@ -162,7 +162,7 @@ void Open_Website (String url){
       bleKeyboard.print(url[i]);
       delay(10); // Small delay between characters
     }
-    delay(2000);
+    delay(1000);
     bleKeyboard.press(KEY_RETURN);
     delay(300);
     bleKeyboard.releaseAll();
